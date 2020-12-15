@@ -1,4 +1,7 @@
 class Config(object):
+    '''
+    Class used for configurations settings
+    '''
     # In a production app, store this instead in KeyVault or an environment variable
     # TODO: Enter your client secret from Azure AD below
     CLIENT_SECRET = "j~-~edl58W~1g1e5iuDwI..6~QXgqo0qwl"
